@@ -67,3 +67,4 @@ public struct WorkoutDualChartView: View {
         .padding()
     }
 }
+
